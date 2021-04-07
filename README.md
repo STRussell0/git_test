@@ -1,1 +1,1 @@
-This is Stephen Russell's first git project!
+This is Stephen Russell's first git project! Hi
